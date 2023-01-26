@@ -1,0 +1,1 @@
+let fl_heading_text = document.querySelector(".fl-heading-text").innerHTML = "JSBOOTCAMP";
